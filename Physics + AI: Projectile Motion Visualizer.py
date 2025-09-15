@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+ 
 # Constants
 g = 9.81  # gravity (m/s^2)
 
