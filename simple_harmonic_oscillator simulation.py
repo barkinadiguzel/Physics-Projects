@@ -1,6 +1,6 @@
 # physics2
 # simple_harmonic_oscillator.py
-
+ 
 import numpy as np
 import matplotlib.pyplot as plt
 
