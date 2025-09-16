@@ -1,5 +1,3 @@
-# physics2
-
 # projectile_electric_field.py
 
 import numpy as np
