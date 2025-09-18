@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-
+ 
 # Parameters
 A = 1       # Amplitude (meters)
 k = 10      # Spring constant (N/m)
